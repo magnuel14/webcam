@@ -1,0 +1,3 @@
+PYTHONPATH=. python datasmarts/webcam.py -s 1200 
+PYTHONPATH=.  python main.py  -s 1200 
+
